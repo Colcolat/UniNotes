@@ -4,38 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "b8b4fce6175cd543",
+        "id": "0c34d796c1eb9acf",
         "type": "tabs",
         "children": [
           {
-            "id": "712924895c596319",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-                "bFile": "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: scheduled-tasks-state.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "dfbeac91ddf233f5",
+            "id": "c985cdaf158928c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Fundamentals.md",
+                "file": "Java - History and Ecosystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Fundamentals"
+              "title": "Java - History and Ecosystem"
+            }
+          },
+          {
+            "id": "4d5654fee330f6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architecture & The C4 Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Architecture & The C4 Model"
+            }
+          },
+          {
+            "id": "ab316447fccdb854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architecture & The C4 Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Architecture & The C4 Model"
+            }
+          },
+          {
+            "id": "ba061b47b19f0f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quality Attributes, Tactics & ADRs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quality Attributes, Tactics & ADRs"
+            }
+          },
+          {
+            "id": "37cb9a0bd9535e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Software and Web Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core Software and Web Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,19 +265,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "712924895c596319",
+  "active": "24edd3a088e2fb6d",
   "lastOpenFiles": [
+    "Quality Attributes, Tactics & ADRs.md",
+    "Architectural Patterns & .NET Ecosystem.md",
+    "Software Architecture & The C4 Model.md",
+    "Software Environments.md",
+    "SOLID Principles & Bounded Contexts.md",
+    "Java - History and Ecosystem.md",
+    "Programming Frameworks and Spring.md",
     "Database Fundamentals.md",
     "Pasted image 20260518111257.png",
     "Core Software and Web Architecture.md",
     "Domain-Oriented Layered Architecture (DDD).md",
-    "Programming Frameworks and Spring.md",
-    "Java - History and Ecosystem.md",
     "Entornos de Software.md",
     "Frameworks de programación y Spring.md",
     "Java - Historia y Ecosistema.md",
     "Arquitectura Base de Software y Web.md",
-    "Software Environments.md",
     "WelcomeWelcome.md",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
